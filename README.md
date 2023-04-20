@@ -1,1 +1,1 @@
-#Amazin Events
+# Amazing Events
